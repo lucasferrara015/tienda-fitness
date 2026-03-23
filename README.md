@@ -16,3 +16,25 @@ Tienda fitness en línea - Frontend React.
 - Context API para el carrito
 - Fetch API para consumir backend
 
+## Instalación
+
+1. Clona el repositorio
+2. `npm install`
+3. Copia `.env.example` a `.env` y ajusta la URL de la API si es necesario.
+4. `npm start`
+
+## Backend
+
+El backend está desarrollado en Flask y se encuentra en: [enlace al repo del backend]  
+API endpoint: `https://lucasferrara015dev.pythonanywhere.com/api/productos`
+
+## Próximos Pasos
+
+- Página de detalle de producto
+- Autenticación de usuarios
+- Panel de administración
+- Mejoras en la experiencia de usuario
+
+## Demo
+
+[Si tienes un deploy del frontend, pon el enlace aquí]
