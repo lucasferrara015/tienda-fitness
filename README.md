@@ -37,4 +37,3 @@ API endpoint: `https://lucasferrara015dev.pythonanywhere.com/api/productos`
 
 ## Demo
 
-[Si tienes un deploy del frontend, pon el enlace aquí]
