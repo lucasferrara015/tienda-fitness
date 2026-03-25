@@ -37,3 +37,7 @@ API endpoint: `https://lucasferrara015dev.pythonanywhere.com/api/productos`
 
 ## Demo
 
+- 🎯 [Ver FitShop en vivo](https://4jdv7h.csb.app/)  
+- 💻 [Ver el código en CodeSandbox](https://codesandbox.io/p/sandbox/4jdv7h)
+
+
