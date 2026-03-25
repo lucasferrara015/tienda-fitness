@@ -35,4 +35,3 @@ const Producto = ({ producto }: { producto: ProductoType }) => {
 };
 
 export default Producto;
-
