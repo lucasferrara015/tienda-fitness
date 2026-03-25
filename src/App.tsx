@@ -1,7 +1,6 @@
 import { CarritoProvider } from "./context/CarritoContext";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-import Features from "./components/Features";
 import ProductsSection from "./components/ProductsSection";
 import Carrito from "./components/Carrito";
 import Formulario from "./components/Formulario";
