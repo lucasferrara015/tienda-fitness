@@ -40,10 +40,16 @@ Frontend desarrollado en React + TypeScript para consumir la API REST del backen
    npm start
 
 
-## Backend
-El backend está desarrollado en Flask.  
-API endpoint en producción: https://lucasferrara015dev.pythonanywhere.com/api/productos  
-(El repositorio del backend será publicado próximamente)
+## 🔗 Relación con el backend
+
+El proyecto [**fitshop-backend**](https://github.com/lucasferrara015/fitshop-backend) provee la API REST que consume este frontend:
+
+- `/api/productos` → catálogo de productos  
+- `/api/suscribir` → suscripción de usuarios vía email  
+- `/api/pago` → integración con Mercado Pago (checkout sandbox)  
+
+Este frontend, desarrollado en React/TSX, se conecta a esos endpoints para mostrar el catálogo, gestionar el carrito y completar el flujo de pago.
+
 
 
 ## Próximos Pasos
